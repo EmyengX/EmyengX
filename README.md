@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**EmyengX/EmyengX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student
+Interested in Software Development, Web Development, and Technology
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a Computer Engineering Student who Enjoys Learning how technology can be used to create useful solution.
+
+Currently building my skills in programming, Software development, and system design
+
+## Currently Learning 
+
+- 🌱 Software development
+- 🌱 Web development
+- 🌱 System design
+  
+## connect With Me 
+
+- GitHub: [@Emyengx](https://github.com/EmyengX)
 -->
